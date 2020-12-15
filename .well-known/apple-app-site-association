@@ -1,0 +1,25 @@
+{
+
+  "applinks": {
+
+    "apps": [],
+
+    "details": [
+
+      {
+
+        "appID": "YT2MPX9MS9.TMS.UniversalLinksExample",
+
+        "paths": [
+
+          "*"
+
+        ]
+
+      }
+
+    ]
+
+  }
+
+}
